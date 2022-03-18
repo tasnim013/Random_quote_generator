@@ -12,6 +12,6 @@ This repository contains the necessary files to make a random quote generator. T
 To generate this website, I have gone through three parts. 
 
 1. First, I have scraped the actual quotes and authors(or movie names) of the respective categories from three websites. The link of the source websites are given in the respective jupyter notebooks. I have used Beautyful Soup Python library for the scrapping process.
-2. Next, I have stroed the collected quotes and authors in three different json files.
-3. Finally, I used javascript (script.js) to read the respective files and randomly select a quote to show on website. I have used index.html to build the scleton of the website and style.css to make it beautiful.   
+2. Next, I have stored the collected quotes and authors in three different json files.
+3. Finally, I used javascript (script.js) to read the respective files and randomly select a quote to show on website. I have used index.html to build the skeleton of the website and style.css to make it beautiful.   
 

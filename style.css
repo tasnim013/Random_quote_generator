@@ -1,0 +1,73 @@
+body{
+    background-image: url('\https://images.pexels.com/photos/4226881/pexels-photo-4226881.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260');
+    }
+h1 {color: purple;
+}
+a {color: green;
+background-color: none;
+text-decoration: underline;
+}
+
+#id_one{
+font-family: Cursive;
+border: 5px outset red;
+background-color: lightblue;
+text-align: center;
+font-size: 1em;
+padding: 5px;
+margin: 5px;
+width: 25%;
+border-style: solid;
+border-color: blue;
+position: fixed; top: 1em; left: 35%;
+}
+
+#make_category{ font-family: Arial, sans-serif, Helvetica;
+      color: black;
+      position:fixed; top: 5em; left: 10%;
+      font-size: 30px;
+
+}
+.two {
+font-family: sans-serif, Helvetica;
+color: black;
+font-size: 25px;
+}
+
+.button {
+background-color: #FF7F50;
+border: none;
+border-radius: 25px;
+color: white;
+padding: 15px 30px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 30px;
+margin: 4px 2px;
+cursor: pointer;
+}
+
+#quoteOutput{
+    font-family: Arial, sans-serif, Helvetica;
+    font-size: 25px;
+    border: 0px;
+    border-radius: 25px;
+    padding: 15px;
+    margin: 5px;
+    width: 25%;
+    position: fixed; top: 50%; right: 30%;
+    overflow-wrap: break-word;
+}
+
+#authorOutput{
+    font-family: Arial, sans-serif, Helvetica;
+    font-size: 25px;
+    border: 0px;
+    border-radius: 25px;
+    padding: 15px;
+    margin: 5px;
+    width: 25%;
+    position: fixed; top: 70%; right: 27%;
+    overflow-wrap: break-word;
+}

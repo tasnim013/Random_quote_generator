@@ -1,9 +1,10 @@
-# Project_1
+# Random quote generator - Python Web scrapping
 
-I will make a "get your surprised quote" interactive web page using html, css, python, javascript
+This repository contains the necessary files to make a random quote generator. The list of the files are the following:
 
-# Files
-1. html file
-2. css file
-3. js file
-4. python file
+1. index.html
+2. style.css
+3. script.js
+4. jupyter notebook
+5. Datafiles   
+
